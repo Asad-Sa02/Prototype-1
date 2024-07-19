@@ -1,2 +1,2 @@
-# Prototype-1
-Voice assistant that can work offline
+# Prjoects
+This is a web assistant which performs various task.
